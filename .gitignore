@@ -1,0 +1,4 @@
+amplify_setup
+.env
+.yaml
+/__pycache__
